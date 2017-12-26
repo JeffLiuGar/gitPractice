@@ -9,6 +9,7 @@ using namespace std;
 //2
 //3 admended
 //4
+//2-5
 class Solution {
 public:
 	bool judgeCircle(string moves) {
