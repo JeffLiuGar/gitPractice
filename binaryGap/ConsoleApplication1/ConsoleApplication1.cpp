@@ -5,6 +5,7 @@
 #include <vector>
 #include<iostream>
 using namespace std;
+//1
 class Solution {
 public:
 	bool judgeCircle(string moves) {
